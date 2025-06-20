@@ -20,12 +20,14 @@
 
 ### 試作版
 
-- [Ver0.3.0](ver030/index.html)
-  - 演出強化版
-- [Ver0.2.1](ver021/index.html)
-- [Ver0.2.0](ver020/index.html)
+- [Ver0.3.0](ver030/index.html) 2025/6/20
+  - アセット組み込み版
+- [Ver0.2.1](ver021/index.html) 2025/6/6
+  - ジャンプの操作性の調整版
+- [Ver0.2.0](ver020/index.html) 2025/6/6
+  - お豆腐演出強化版
 - [Ver0.1.0](ver010/index.html)
-  - お豆腐版
+  - お豆腐コアメカニクス版 2025/5/30
 
 
 ## 使用アセット
